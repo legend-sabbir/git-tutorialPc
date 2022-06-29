@@ -1,2 +1,2 @@
 console.log('config.js')
-console.log('versionPC')
+console.log('versionPC-MOBILE')

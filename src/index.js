@@ -1,2 +1,2 @@
 console.log('index.js')
-console.log('versionPC')
+console.log('versionPC-MOBILE')
