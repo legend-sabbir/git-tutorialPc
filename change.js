@@ -1,2 +1,2 @@
 console.log('change.js')
-console.log('versionmobile')
+console.log('versionPC')
